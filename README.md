@@ -7,7 +7,7 @@
   </kbd>
 </p><br>
 
-- [Check out my Portfolio](https://rajevlraman.github.io)
+- [Check out my Portfolio](https://rajeevlraman.github.io)
 <br>
 Just change `src/portfolio.js` to get your personal portfolio. Customize portfolio theme by using your own color scheme globally in the  `src/_globalColor.scss` file. Feel free to use it as-is or personalize it as much as you want.
 
