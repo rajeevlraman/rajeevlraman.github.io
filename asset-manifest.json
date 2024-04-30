@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e7c41540.css",
-    "main.js": "/static/js/main.43167ce3.js",
+    "main.js": "/static/js/main.fd6997c9.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -39,7 +39,6 @@
     "static/media/Aplus_Logo.tif": "/static/media/Aplus_Logo.6f90b332ceaee2e66582.tif",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
-    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/animated_rajeev.png": "/static/media/animated_rajeev.35d501fc7160fd889882.png",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.a40e290031eaf389bde1.png",
@@ -56,6 +55,7 @@
     "static/media/projects_image.svg": "/static/media/projects_image.0a8062569966b4888c7c.svg",
     "static/media/vantiva_logo.png": "/static/media/vantiva_logo.51f9761843b2ff1a1b0d.png",
     "static/media/programmer.svg": "/static/media/programmer.d3060f7bf0527835d72e.svg",
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d3060f7bf0527835d72e.svg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.911c595a22a28c7b6f78.svg",
     "static/media/address_image.svg": "/static/media/address_image.3385d92e5e426e57a5b1.svg",
     "static/media/pwa.png": "/static/media/pwa.5107022416df1293dd12.png",
@@ -76,10 +76,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.e7c41540.css.map": "/static/css/main.e7c41540.css.map",
-    "main.43167ce3.js.map": "/static/js/main.43167ce3.js.map"
+    "main.fd6997c9.js.map": "/static/js/main.fd6997c9.js.map"
   },
   "entrypoints": [
     "static/css/main.e7c41540.css",
-    "static/js/main.43167ce3.js"
+    "static/js/main.fd6997c9.js"
   ]
 }
