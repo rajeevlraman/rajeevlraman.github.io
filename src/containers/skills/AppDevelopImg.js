@@ -1,6 +1,8 @@
-import React from "react";
+import React, { Component } from "react";
 
-const AppDevelopImg = () => {
+export default class DesignImg extends Component {
+  render() {
+    // const theme = this.props.theme;
   return (
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 773.616 528.694">
       <defs>
@@ -1889,6 +1891,6 @@ const AppDevelopImg = () => {
       </g>
     </svg>
   );
-};
-
-export default AppDevelopImg;
+}
+}
+//export default AppDevelopImg;

@@ -548,7 +548,7 @@ const experience = {
           duration: "June 2009 - Jan 2024",
           location: "Braeside-Victoria Australia",
           description:
-            "Troubleshooting and MAintenance of Plant and Machinery. IT support to Production line pcs. IT support to industrial computers and digital measuring systems and High speed Vision systems and scanners",
+            "Troubleshooting and Maintenance of Plant and Machinery. IT support to Production line pcs. IT support to industrial computers and digital measuring systems and High speed Vision systems and scanners",
           color: "#000000",
         },
         {
