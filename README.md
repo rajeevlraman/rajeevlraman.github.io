@@ -6,6 +6,10 @@
 <img src="./icons/desc.png"></img>
   </kbd>
 </p><br>
+- <a href="https://www.linkedin.com/in/rajeevlraman">
+  <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30" height="30" alt="Rajeev Raman's LinkedIn Profile">
+    
+</a>
 
 - [Check out my portfolio](https://rajeevlraman.github.io)<br>
 
